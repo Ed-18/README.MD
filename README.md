@@ -21,23 +21,22 @@
 <h2 align="center">Linguagens e ferramentas</h2>
 <p align="center">
 <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/php/php-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/c/c-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/csharp/csharp-original.svg"/>
+
+
+
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/intellij/intellij-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
+
+
+
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/tomcat/tomcat-line.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/apache/apache-line-wordmark.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/arduino/arduino-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
+
+
+
+
 <!--<img height="35em" src=""/>
 <img height="35em" src=""/> -->
 </p>
