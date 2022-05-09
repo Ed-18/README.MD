@@ -2,20 +2,23 @@
 
 ## Olá, tudo bem?! Me chamo Eduardo, é um prezer te-lô aqui em meu GitHub!
 ° 🎮 Aluno do instituto Proa
-° 🖥️ Formado em Redes de computadores na Universidade Paulista (UNIP)
+
+° 🖥️🎓 Formado em Redes de computadores na Universidade Paulista (UNIP)
+
 ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
+
 ° 🚀 E buscando maiores conhecimentos em ReactJs
 
 
 
-° 🎓 
+
 
 <div>
 <hr>
 <a href="https://www.linkedin.com/in/eduardo-avelino-74043a204/">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anabeatrizbbrito&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorobama&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=eduardoavelino&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ed-18&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-18&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=Ed-18&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
 <hr>
 </div>
 <h2 align="center">Linguagens e ferramentas</h2>
@@ -23,7 +26,7 @@
 <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
 
 
-
+<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg"/>
