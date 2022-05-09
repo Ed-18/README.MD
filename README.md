@@ -7,7 +7,7 @@
 
 ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
 
-° 🚀 E buscando maiores conhecimentos em ReactJs
+° 🚀 E buscando maiores conhecimentos em <strong>ReactJs</strong>
 
 
 
