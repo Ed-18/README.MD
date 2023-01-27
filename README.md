@@ -1,7 +1,7 @@
 # README.md
 
 ## Olá, tudo bem?! Me chamo Eduardo, é um prezer te-lô aqui em meu GitHub!
-  (Hi, how are you? I'm Eduardo, it's a pleasure see you here on my Github!)
+  (Hi, how are you? I'm Eduardo, it's a pleasure see you here on my Github!)<br>
 ° 🎮 Aluno do instituto Proa
 
 ° 🖥️🎓 Formado em Redes de computadores na Universidade Paulista (UNIP)
