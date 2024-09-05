@@ -3,15 +3,15 @@
 ## Olá, tudo bem?! Me chamo Eduardo, é um prezer te-lô aqui em meu GitHub!
   (Hi, how are you? I'm Eduardo, it's a pleasure see you here on my Github!)<br>
      <br>
-° 🎮 Aluno do instituto Proa
+° 🎮 Ex-Aluno do instituto Proa
 
 ° 🖥️🎓 Formado em Redes de computadores na Universidade Paulista (UNIP)
 
-° 🚀 Me aprofundando em <strong>JavaScript.</strong>
+° 🚀 Me aprofundando em <strong>ReactJS.</strong>
 
-° 🚀 Buscando maiores conhecimentos em <strong>ReactJs</strong>
+°    Me aprimorando em UI/UX através do <strong>Figma</strong>
 
-°    Iniciando os estudos com a linguagem PHP
+°    Intermediate english level
 
 
 
